@@ -1,0 +1,22 @@
+links.txt
+Created Fri Mar 27 11:43:51 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+MCEBuddy related links
+
+
+Links
+=====
+eac3to - audio conversion tool
+http://madshi.net/eac3to.zip
+eac3to is referenced on the "MCEBuddy 2.x Linux Version" page.
+http://forum.doom9.org/showthread.php?t=125966
+
+MCEBuddy 2.x
+https://mcebuddy2x.codeplex.com/ 
+
+MCEBuddy 2.x Linux Version
+Wiki Link: [discussion:448775]
+Not yet but good resources here.
+https://mcebuddy2x.codeplex.com/discussions/448775
