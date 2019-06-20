@@ -1,0 +1,25 @@
+mcebuddy.txt
+Created Fri Mar 27 11:38:46 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+MCEBuddy 2.x
+
+MCEBuddy - Remove Commercials and Ads, Convert Videos, Rename and Organize
+your video collection for your Windows Media Center, Recorded TV and any Video.
+Recommended by Jerra Buttitta of GCI Network Servies, OSS for good commercial
+removal in March 26, 2015.  He runs it under windows.
+
+Looks completely possible to run MCEBuddy under VMware player and win 7.
+
+mcebuddy2x.codeplex.com/discussions/448775
+
+
+Links
+=====
+MCEBuddy 2.x
+https://mcebuddy2x.codeplex.com/ 
+
+Linux Version
+Wiki Link: [discussion:448775]
+https://mcebuddy2x.codeplex.com/discussions/448775
